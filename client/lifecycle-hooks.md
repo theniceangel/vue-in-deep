@@ -2,7 +2,7 @@
 
 ## 概念
 
-// TODO 图片
+![lifecycle](https://raw.githubusercontent.com/theniceangel/vue-in-deep/master/assets/lifecycle.png)
 
 生命周期函数总共有 `beforeCreate`、`created`、`beforeMount`、`mounted`、`beforeUpdate`、`updated`、`activated`、`deactivated`、`beforeDestroy`、`destroyed`、`errorCaptured`。
 
